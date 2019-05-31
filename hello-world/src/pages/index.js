@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 export default () => (
   <div style={{ color: "purple" }}>
@@ -6,4 +6,4 @@ export default () => (
     <p>What a world</p>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
   </div>
-)
+);
